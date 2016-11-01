@@ -1,0 +1,28 @@
+body{
+background-color: lavender;
+}
+
+h1{
+  font-family: cursive;
+  color:red;
+  text-align:center;
+}
+
+p, span {
+  font-family:"Arial";
+  color:blue;
+  text-align:center;
+}
+h2
+{text-align: center;
+
+color: red;
+
+}
+h3 {
+  text-align: right;
+  font-style: normal;
+}
+table {
+background-color: gray;
+}
